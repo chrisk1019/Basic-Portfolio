@@ -1,20 +1,30 @@
 header {
-    background: #7fa3ac;
     padding: 20px;
     margin-bottom: 20px;
+    width: max-content
     }
-h1 {
+.container {
     font-size: x-large;
     font-family: 'Georgia', Times, Times New Roman, serif;    color: "";
-    background-color: #4aaaa5;
-    text-align: center;
+    background-color: Teal;
+    text-align: left;
+    width: max-content;
  }
  body{
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     margin: 40px;     
     font-size: larger;
-    background-color: gray;
+    background-color: white;
 }  
 title{
     background: #7fa3;
+}
+h1{
+    font-size: medium
+}
+h2{
+    font-size: medium;
+}
+h3{
+    font-size: medium;
 }
